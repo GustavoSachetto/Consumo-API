@@ -1,8 +1,18 @@
 # Consumo-API
-Site baseado na busca de CEP desenvolvido para estudos sobre consumo de API através do JavaScript. Para realizar a busca de CEP foi usado a [Api Brasil](https://brasilapi.com.br/)
+![Busca CEP](https://github.com/user-attachments/assets/045c3030-3c81-42a7-bfff-6683045cd1f9)
+
+## Sobre
+Site baseado na busca de CEP desenvolvido para estudos sobre consumo de API através do JavaScript. 
  
-* __Link:__ https://gustavosachetto.github.io/Consumo-API/
+* __Link de acesso:__ https://gustavosachetto.github.io/Consumo-API/
   
-__Tecnologias utilizadas:__ HTML, CSS, JAVASCRIPT, AJAX e JSON.
+## Tecnologias 
+Para realizar a busca de CEP foi usado a [Brasil Api](https://brasilapi.com.br/)
+
+* HTML
+* CSS
+* JAVASCRIPT
+* AJAX
+* JSON
 
 **************
