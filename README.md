@@ -4,7 +4,7 @@
 ## Sobre
 Site baseado na busca de CEP desenvolvido para estudos sobre consumo de API através do JavaScript. 
  
-* __Link de acesso:__ https://gustavosachetto.github.io/Consumo-API/
+* __Link de acesso:__ https://gustavosachetto.site/buscador-cep/
   
 ## Tecnologias 
 Para realizar a busca de CEP foi usado a [Brasil Api](https://brasilapi.com.br/)
